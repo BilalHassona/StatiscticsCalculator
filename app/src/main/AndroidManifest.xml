@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.statisticscalculator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:fullBackupContent="true">
+
+        <activity android:name=".MainActivity" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".List1Activity" android:label="@string/activity_list1">
+        </activity>
+
+        <activity android:name=".List4Activity" android:label="@string/activity_list4">
+        </activity>
+
+        <activity android:name=".List5Activity" android:label="@string/activity_list5">
+        </activity>
+
+        <activity android:name=".list1.List1Model1" android:label="@string/activity_list1_model1_name">
+        </activity>
+
+        <activity android:name=".list1.List1Model2" android:label="@string/activity_list1_model2_name">
+        </activity>
+
+        <activity android:name=".list1.List1Model3" android:label="@string/activity_list1_model3_name">
+        </activity>
+
+        <activity android:name=".list4.OneAverageM1" android:label="@string/activity_list41">
+        </activity>
+
+        <activity android:name=".list4.OneAverageM2" android:label="@string/activity_list42">
+        </activity>
+
+        <activity android:name=".list4.OneAverageM3" android:label="@string/activity_list43">
+        </activity>
+
+        <activity android:name=".list4.TwoAveragesM1" android:label="@string/activity_list44">
+        </activity>
+
+        <activity android:name=".list4.TwoAveragesM2" android:label="@string/activity_list45">
+        </activity>
+
+        <activity android:name=".list4.TwoAveragesM3" android:label="@string/activity_list46">
+        </activity>
+
+        <activity android:name=".list4.StructureFactor" android:label="@string/activity_list47">
+        </activity>
+
+        <activity android:name=".Graphics" android:label="@string/graphics">
+        </activity>
+
+    </application>
+
+</manifest>

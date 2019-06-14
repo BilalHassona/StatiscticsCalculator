@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Statistics Calculator</string>
+
+    <string name="activity_list1">List 1</string>
+    <string name="activity_list4">List 4</string>
+    <string name="activity_list5">List 5</string>
+
+    <string name="activity_list41">List 4 One Average Model 1</string>
+    <string name="activity_list42">List 4 One Average Model 2</string>
+    <string name="activity_list43">List 4 One Average Model 3</string>
+    <string name="activity_list44">List 4 Two Averages Model 1</string>
+    <string name="activity_list45">List 4 Two Averages Model 2</string>
+    <string name="activity_list46">List 4 Two Averages Model 3</string>
+    <string name="activity_list47">List 4 Structure Factor</string>
+
+    <string name="activity_list1_model1_name">List 1 Model 1</string>
+    <string name="activity_list1_model2_name">List 1 Model 2</string>
+    <string name="activity_list1_model3_name">List 1 Model 3</string>
+
+    <string name="graphics">Graphics</string>
+
+    <string name="list1">List 1</string>
+    <string name="list4">List 4</string>
+    <string name="list5">List 5</string>
+
+
+    <string name="model_1">model 1</string>
+    <string name="model_2">model 2</string>
+    <string name="model_3">model 3</string>
+
+    <string name="x_average_and_deviation">x̄ and s</string>
+    <string name="xj">Type xj</string>
+    <string name="nj">Type nj</string>
+    <string name="x_average">x̄</string>
+    <string name="output">Output:</string>
+    <string name="calculate">Calculate</string>
+    <string name="answer">Answer</string>
+    <string name="calculate_x2">Calculate x̄2</string>
+    <string name="calculate_std_dev2">Calculate s</string>
+
+    <string name="calculate_m">Calculate m</string>
+
+    <string name="t_alpha">t_alpha</string>
+    <string name="u_alpha_sigma_n">u_alpha,sigma,n</string>
+    <string name="u_alpha">u_alpha</string>
+
+    //////////NEW ONES//////////
+    ///////////NEW ONES/////////
+
+    <string name="one_m_1">One average Model 1</string>
+    <string name="one_m_2">One average Model 2</string>
+    <string name="one_m_3">One average Model 3</string>
+    <string name="two_m_1">Two averages model 1</string>
+    <string name="two_m_2">Two averages model 2</string>
+    <string name="two_m_3">Two averages model 3</string>
+    <string name="structure_factor">Structure factor</string>
+
+    <string name="text">Type m (value from measurement)</string>
+    <string name="text2">Type m<sub>0</sub> (value we test)</string>
+    <string name="bigger">" > "</string>
+    <string name="equal">" = "</string>
+    <string name="smaller">" "\u003C" "</string>
+
+    <string name="type41">Type: sigma,n</string>
+    <string name="type_u_alpha">Type: uAlpha</string>
+
+
+</resources>
